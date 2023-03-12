@@ -28,7 +28,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Tech2Imagination"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Tech2Imagination" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tech2imagination&show_icons=true&locale=en&layout=compact" alt="tech2imagination" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tech2imagination&show_icons=true&locale=en" alt="tech2imagination" /></p>
 
